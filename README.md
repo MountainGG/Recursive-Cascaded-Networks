@@ -1,10 +1,10 @@
-**[NOTE]** Visit our main repo at [https://github.com/microsoft/Recursive-Cascaded-Networks](https://github.com/microsoft/Recursive-Cascaded-Networks)
-
 # Recursive Cascaded Networks for Unsupervised Medical Image Registration (ICCV 2019)
 
 By Shengyu Zhao, Yue Dong, Eric I-Chao Chang, Yan Xu.
 
 Paper link: [[arXiv]](https://arxiv.org/pdf/1907.12353)
+
+**[NOTE!]** Visit our main repo at [https://github.com/microsoft/Recursive-Cascaded-Networks](https://github.com/microsoft/Recursive-Cascaded-Networks).
 
 ## Introduction
 
